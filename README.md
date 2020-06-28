@@ -11,7 +11,7 @@ O <strong>Cronometro</strong> é um projeto a fins de estudos em React.
 
 ## 🖼 Screenshot
 
-<img src="https://i.imgur.com/d5rKbzs.png">
+<center><img src="https://i.imgur.com/d5rKbzs.png"></center>
 
 ---
 
